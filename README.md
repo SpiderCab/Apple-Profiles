@@ -1,2 +1,2 @@
-# Apple-Profiles
-This will allow you to access the beta firmware on Apple devices.
+# Apple Seed Profiles
+Apple Software Testing Profiles
